@@ -44,8 +44,9 @@ while true; do
     	echo -e "\n[TOP 3 PROCESSOS (MEM)]"
     	ps -eo pid,comm,%cpu,%mem --sort=-%mem | head -n 4
 
-    	echo -e "\n------------------------------------------"
-    	echo "|Atualizando em 1s... (Ctrl+C para parar)|"
-	echo "------------------------------------------"
+        echo -e "\n------------------------------------------"
+        echo "|           (Ctrl+C para parar)          |"
+        echo "------------------------------------------"
+
     	sleep 1
 done
