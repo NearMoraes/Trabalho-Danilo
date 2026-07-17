@@ -34,6 +34,7 @@ o que está acontecendo com o uso de sua máquina.
 Instruções de uso:
   o programa é muito simples de utilizar, basta baixar o script, executá-lo no terminal com <./monitor.sh> e logo em seguida 
   o terminal exibe as informações prometidas.
+  Aperte Ctrl + C para parar a execução e sair (escrito na interface).
   
 
 
